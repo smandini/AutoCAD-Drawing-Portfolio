@@ -22,5 +22,9 @@ Redraw and need to show the wall in detailed.
 
 <img width="1240" height="1755" alt="ELECTRICAL FLOOR PLANT02" src="https://github.com/user-attachments/assets/a3ae08ec-99cb-4f9a-89b2-b69459d3b4dc" />
 
+Let's move into another project, it is included of Energy Load Calculation of a house.
+
+<img width="1240" height="1349" alt="ELECTRICAL FLOOR PLANT_03" src="https://github.com/user-attachments/assets/6ae97fd8-87c5-4ea0-8ed7-e5ee5ebdda12" />
+
 
 
