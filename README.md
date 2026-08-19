@@ -26,9 +26,14 @@ Let's move into another project, it is included of Energy Load Calculation of a 
 
 <img width="1240" height="1349" alt="ELECTRICAL FLOOR PLANT_03" src="https://github.com/user-attachments/assets/6ae97fd8-87c5-4ea0-8ed7-e5ee5ebdda12" />
 
-Sometimes I also draw mechanical components, here is an example
+Sometimes I also draw mechanical components,
 
 <img width="1755" height="1240" alt="Mechanical Components_page-0001 (1)" src="https://github.com/user-attachments/assets/2f93a8aa-dc96-41b8-9183-4b047405d060" />
+
+Also
+
+<img width="1755" height="1240" alt="Mechanical Components 02_page-0001" src="https://github.com/user-attachments/assets/283f9edf-d6d4-4fea-bb4e-404a9cebd68b" />
+
 
 
 
