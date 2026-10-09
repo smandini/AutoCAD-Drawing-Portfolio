@@ -30,10 +30,6 @@ Sometimes I also draw mechanical components,
 
 <img width="1755" height="1240" alt="Mechanical Components_page-0001 (1)" src="https://github.com/user-attachments/assets/2f93a8aa-dc96-41b8-9183-4b047405d060" />
 
-Also
-
-<img width="1755" height="1240" alt="Mechanical Components 02_page-0001" src="https://github.com/user-attachments/assets/283f9edf-d6d4-4fea-bb4e-404a9cebd68b" />
-
 
 
 
